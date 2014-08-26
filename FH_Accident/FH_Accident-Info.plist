@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>费大姐事故通</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>CFBundleIdentifier</key>
+	<string>com.jsmcc.fdj</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>Partner</key>
+	<string>2088801453626661</string>
+	<key>RSA private key</key>
+	<string>MIICeQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBAKi1qO+yTVnXPcV0RlWH9qs+abniiCOKjFuyqdL9lLtsE0vdixNIY9JzelfnJ2wtEfVL67qxgGeI2cm9q4FW6CttytxtaHsPlhlmJzC0PlWA3Ordjw3c58vgoPIkpy6y2bSZKevruLdwaAC49hCR4DvuJ0JoMfJhEtP0Kz5OD4WdAgMBAAECgYEAlPum7dVU/WtYP1BI9CsXJ238S4zCkDA/dpK16X7JoyDzgWFo+WRJ0oTrm0ijxaGfZDDhQIKTU9rECKWYGKW4a4KCqkM6YzK1O8t5d6ZBCAC5vv4IRvmdkpmWEet+Yo3z+u56DU1xTBwWj1xXW13CNXXRwEeY2MJfUnJbfXCfVTkCQQDQRIhptw4DsQ5MZLiKV7GUB1jhaau7GQxFptQn0+Vu7rY1QT019nsmuC8N3gkknr28FJ/Q1gOK2DRD+9+8Ii6fAkEAz2AtZgpFxUlUGfCZusy8WixL9qWEGG11jXA96usFnwLZgYPLYn1tUc4hb50WFLyQdtDinlNORVFmkx1d98tuQwJBAMbvL34LJI/SJ95AtyUt7ql++x8VWLw2iMpfOHdyp8z2p4Tm9Bj/f1LUy91rIUChgIqPCLjqNCgDrKjjhiqmW/ECQQCuQJXFQWqBLW3C4j57DaBTcRdfqJMH56o4cBFHPbcad02HG9Sh7N0YOUo1PF0ajZwiisFx4nRJoO29PpcAKet7AkEAs6LSU6VtZgvrC/XRMiNhE9LW/2bpXe13mTfDhmcdxG5DxHmLNkiY87Jofc90byvESExO5rEY6TbP2b5W7pS0/A==</string>
+	<key>RSA public key</key>
+	<string>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCotajvsk1Z1z3FdEZVh/arPmm54ogjioxbsqnS/ZS7bBNL3YsTSGPSc3pX5ydsLRH1S+u6sYBniNnJvauBVugrbcrcbWh7D5YZZicwtD5VgNzq3Y8N3OfL4KDyJKcustm0mSnr67i3cGgAuPYQkeA77idCaDHyYRLT9Cs+Tg+FnQIDAQAB</string>
+	<key>Seller</key>
+	<string>ssky365@163.com</string>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.alix.fdj</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.alix.fdj2014</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
