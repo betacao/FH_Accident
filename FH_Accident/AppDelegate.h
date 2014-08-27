@@ -4,7 +4,7 @@
 //
 //  Created by dyf on 14-5-19.
 //  Copyright (c) 2014年 wisedu. All rights reserved.
-//
+//  this is delegate
 
 #import <UIKit/UIKit.h>
 #import "EAIntroView.h"
