@@ -101,6 +101,8 @@
 		14E239591935CDE4006F6BCB /* sns_icon_23.png in Resources */ = {isa = PBXBuildFile; fileRef = 14E2394D1935CDE4006F6BCB /* sns_icon_23.png */; };
 		14E2395A1935CDE4006F6BCB /* sns_icon_23@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 14E2394E1935CDE4006F6BCB /* sns_icon_23@2x.png */; };
 		14E2395C1935D409006F6BCB /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14E2395B1935D409006F6BCB /* MessageUI.framework */; };
+		9E0CB59719AD855E00E3C118 /* a.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E0CB59519AD855E00E3C118 /* a.png */; };
+		9E0CB59819AD855E00E3C118 /* accident_head.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E0CB59619AD855E00E3C118 /* accident_head.png */; };
 		9EBDEE0819A2F21400C8DF18 /* AlixPaylib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EBDEE0719A2F21400C8DF18 /* AlixPaylib.a */; };
 		D56A677F1976784D0077E73C /* splash01.png in Resources */ = {isa = PBXBuildFile; fileRef = D56A677C1976784D0077E73C /* splash01.png */; };
 		D56A67801976784D0077E73C /* splash02.png in Resources */ = {isa = PBXBuildFile; fileRef = D56A677D1976784D0077E73C /* splash02.png */; };
@@ -450,6 +452,8 @@
 		14E2394D1935CDE4006F6BCB /* sns_icon_23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sns_icon_23.png; sourceTree = "<group>"; };
 		14E2394E1935CDE4006F6BCB /* sns_icon_23@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sns_icon_23@2x.png"; sourceTree = "<group>"; };
 		14E2395B1935D409006F6BCB /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		9E0CB59519AD855E00E3C118 /* a.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a.png; sourceTree = "<group>"; };
+		9E0CB59619AD855E00E3C118 /* accident_head.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = accident_head.png; sourceTree = "<group>"; };
 		9EB5BBBD19A2E7EF00D5D950 /* PartnerConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PartnerConfig.h; sourceTree = "<group>"; };
 		9EBDEE0719A2F21400C8DF18 /* AlixPaylib.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = AlixPaylib.a; path = FH_Accident/Models/alipay/AlixPaylib.a; sourceTree = "<group>"; };
 		D56A677C1976784D0077E73C /* splash01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash01.png; sourceTree = "<group>"; };
@@ -1392,6 +1396,8 @@
 				D56A677C1976784D0077E73C /* splash01.png */,
 				D56A677D1976784D0077E73C /* splash02.png */,
 				D56A677E1976784D0077E73C /* splash03.png */,
+				9E0CB59519AD855E00E3C118 /* a.png */,
+				9E0CB59619AD855E00E3C118 /* accident_head.png */,
 				14E239421935CDE4006F6BCB /* Icon_7 */,
 			);
 			path = Resources;
@@ -1569,6 +1575,7 @@
 				D5A4F563197FA03E006A9B65 /* online_head.png in Resources */,
 				F9AD406C1935B3BE008BE26B /* Com_InsuranceController.xib in Resources */,
 				D591D1A1198FC34700293CF1 /* Slight_live.png in Resources */,
+				9E0CB59819AD855E00E3C118 /* accident_head.png in Resources */,
 				D5EE78D119A07A8800045D19 /* btn_close_online.png in Resources */,
 				14C6A34B1930E44500FDEE71 /* RegisterViewController.xib in Resources */,
 				F9AD40A51935D748008BE26B /* newApplicationController.xib in Resources */,
@@ -1614,6 +1621,7 @@
 				D5A4F569197FA03E006A9B65 /* online_item5.png in Resources */,
 				D5A4F552197E749D006A9B65 /* self_fav.png in Resources */,
 				D5EDE58F199A4A6C002E6640 /* person_2L1.png in Resources */,
+				9E0CB59719AD855E00E3C118 /* a.png in Resources */,
 				F9A60E531934402B00998502 /* claimController.xib in Resources */,
 				D5EF2E77199903BB00E042BC /* auto_one.png in Resources */,
 				14E239571935CDE4006F6BCB /* sns_icon_22.png in Resources */,
