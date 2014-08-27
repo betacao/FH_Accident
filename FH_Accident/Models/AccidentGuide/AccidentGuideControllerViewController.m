@@ -52,6 +52,8 @@
     [self refreshRightBtnView:@"北京"];
     [self addComboBox];
     
+    
+    
 }
 
 //wap回调函数
