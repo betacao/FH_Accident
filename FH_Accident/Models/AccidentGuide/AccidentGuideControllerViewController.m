@@ -51,9 +51,6 @@
     // Do any additional setup after loading the view from its nib.
     [self refreshRightBtnView:@"北京"];
     [self addComboBox];
-    
-    
-    
 }
 
 //wap回调函数
