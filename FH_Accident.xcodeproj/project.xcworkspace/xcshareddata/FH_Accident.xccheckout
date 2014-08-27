@@ -5,41 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>098E08CF-0AC6-43DC-A40D-7C83B28C02FB</string>
+	<string>123C470D-8474-44BF-AD5D-9C373846608A</string>
 	<key>IDESourceControlProjectName</key>
 	<string>FH_Accident</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>39E29D1C-B2FB-4CB2-8BB1-308431827A1F</key>
-		<string>svn://localhost</string>
+		<key>0569CD6A-FB6F-4F3C-A843-C5837C71E609</key>
+		<string>https://github.com/caochangxi/FH_Accident.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>FH_Accident/FH_Accident.xcodeproj/project.xcworkspace</string>
+	<string>FH_Accident.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>39E29D1C-B2FB-4CB2-8BB1-308431827A1F</key>
-		<string>../../..</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>39E29D1C-B2FB-4CB2-8BB1-308431827A1F</key>
-		<string>svn://localhost</string>
+		<key>0569CD6A-FB6F-4F3C-A843-C5837C71E609</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>svn://localhost/FH_Accident/FH_Accident.xcodeproj</string>
+	<string>https://github.com/caochangxi/FH_Accident.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>39E29D1C-B2FB-4CB2-8BB1-308431827A1F</string>
+	<string>0569CD6A-FB6F-4F3C-A843-C5837C71E609</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>39E29D1C-B2FB-4CB2-8BB1-308431827A1F</string>
+			<string>0569CD6A-FB6F-4F3C-A843-C5837C71E609</string>
 			<key>IDESourceControlWCCName</key>
-			<string>accidentProject</string>
+			<string>FH_Accident</string>
 		</dict>
 	</array>
 </dict>
